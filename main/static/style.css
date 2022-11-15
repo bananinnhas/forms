@@ -1,0 +1,29 @@
+.barra{
+    color:violet;
+    background-color: rgb(154, 17, 182);
+}
+h3{
+    color: rgb(154, 17, 182);
+    text-align: center;
+}
+
+.forms{
+    width: 50%; 
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.text{
+    width: 190px;
+    height: 90px;
+}
+
+.icon{
+    margin-left: 30px;
+}
+
+.btn{
+    float: right;
+    background-color:  rgb(154, 17, 182);
+    border-color:  rgb(154, 17, 182);
+}
